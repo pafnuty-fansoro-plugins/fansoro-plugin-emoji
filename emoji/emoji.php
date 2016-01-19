@@ -1,13 +1,13 @@
 <?php
 
 /**
- *  Emoji plugin for Morfy
+ *  Emoji plugin for Fansoro
  *
- * @package    Morfy
+ * @package    Fansoro
  * @subpackage Plugins
  * @author     Pavel Belousov / pafnuty
- * @version    1.0.0
- * @license    https://github.com/pafnuty-morfy-plugins/morfy-plugin-emoji/blob/master/LICENSE MIT
+ * @version    1.1.0
+ * @license    https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-emoji/blob/master/LICENSE MIT
  *
  */
 

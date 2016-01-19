@@ -1,12 +1,12 @@
 name: emoji
-version: 1.0.0
-description: "Emoji Plugin for Morfy CMS"
+version: 1.1.0
+description: "Emoji Plugin for Fansoro CMS"
 author:
   name: Pavel Belousov
   email: pafnuty10@gmail.com
   url: http://pafnuty.name
-homepage: https://github.com/pafnuty-morfy-plugins/morfy-plugin-emoji
-bugs: https://github.com/pafnuty-morfy-plugins/morfy-plugin-emoji/issues
+homepage: https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-emoji
+bugs: https://github.com/pafnuty-fansoro-plugins/fansoro-plugin-emoji/issues
 license: MIT
 
 # Plugin settings
